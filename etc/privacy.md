@@ -44,29 +44,10 @@ We may employ third party companies and individuals to facilitate our Service ("
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Name</th>
-      <th align="left">Usage</th>
-      <th align="left">Privacy Policy</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">**Heroku**</td>
-      <td align="left">Hosting services; Content processing and delivery;</td>
-      <td align="left">[https://www.heroku.com/policy/](https://www.heroku.com/policy/)
-      </td>
-    </tr>
-    <tr>
-      <td align="left">**Mailgun**</td>
-      <td align="left">Transaction Email for events that Users have subscribed; You may unsubscribe from these
-        events at any time;</td>
-      <td align="left">[https://www.mailgun.com/privacy-policy](https://www.mailgun.com/privacy-policy)</td>
-    </tr>
-  </tbody>
-</table>
+| Name        | Usage                                                                                                       | Privacy Policy                                                                   |
+|-------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Heroku**  | Hosting services; Content processing and delivery;                                                          | [https://www.heroku.com/policy/](https://www.heroku.com/policy/)                 |
+| **Mailgun** | Transaction Email for events that Users have subscribed; You may unsubscribe from these,events at any time; | [https://www.mailgun.com/privacy-policy](https://www.mailgun.com/privacy-policy) |
 
 ### Cookies
 
